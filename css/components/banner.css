@@ -1,0 +1,7 @@
+.banner {
+ background-image: url(../../images/trading.jpg);
+ color: blueviolet;
+ padding: 170px 0px;
+ background-size: cover;
+ background-position: center;
+}
